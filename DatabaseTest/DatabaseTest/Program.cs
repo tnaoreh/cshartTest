@@ -22,7 +22,7 @@ namespace DatabaseTest
             sqlConn.Open();
             sqlComm.ExecuteNonQuery();
             sqlConn.Close();
-            Console.WriteLine("Hello World! test ");
+            Console.WriteLine("Hello World! test l");
         }
     }
 }
